@@ -3,7 +3,7 @@ Created Dropbox clone with blockchain
 
 # Project Diagram
 
-
+![Dropbox_clone](https://user-images.githubusercontent.com/10496268/126797523-ba041e49-6f4c-4b69-93dd-1d21cfd60672.png)
 
 # Tools needed:
 1. Truffle box for Local DAPP Developemnt: https://github.com/truffle-box/react-box
