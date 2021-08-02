@@ -1,5 +1,6 @@
 # Decentralized_Storage
-Created Dropbox clone with blockchain
+1. Created a Dropbox clone full stack decentralized application where users can store their files in the blockchain using IPFS (Inter Planetary File System).
+2. Deployed the smart contract on Ganache and also on Rinkeby test network.
 
 # Project Diagram
 
